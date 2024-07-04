@@ -64,9 +64,8 @@ To host the website on a local system, ensure you have the following installed:
 2. Open the Command Line Terminal in this folder.
 3. Run the following commands one by one:
 
-npm install --force
-
-npm start
+* npm install --force
+* npm start
 
 
 The webpage will automatically open in `localhost:3000`. If it doesn't open automatically, you can open it manually in your web browser.
@@ -77,14 +76,12 @@ The webpage will automatically open in `localhost:3000`. If it doesn't open auto
 2. Open the Command Line Terminal in this folder.
 3. Run the following commands one by one:
 
-npm install --force
-
-npm start
+* npm install --force
+* npm start
 
 If there is an error after running `npm start`, try running:
 
-npm uninstall bcrypt
-
-npm install bcrypt
+* npm uninstall bcrypt
+* npm install bcrypt
 
 
