@@ -1,5 +1,14 @@
 # Collge Path Finder
 
+College PathFinder is a comprehensive educational search and recommendation platform designed to assist students in finding suitable college programs based on a wide range of criteria. The platform enhances the user experience and streamlines the college selection process by allowing users to set a specific All India Rank (AIR) range. This feature helps students narrow down their options based on academic performance, ensuring they are presented with colleges that align with their ranking.
+
+Objectives and Benefits:
+* Rank-based Selection: Users can choose between available college options based on their rank.
+* Program Comparison: Allows students to compare two programs based on their rankings.
+* Program Search and Reviews: Users can search for specific programs and view their reviews.
+* Latest Updates: Keeps users updated with the latest happenings related to college admissions and entrance exams.
+* Direct Communication: Enables direct communication between users and students studying on campuses.
+
 ## Codebase Navigation
 
 ### FrontEnd
@@ -56,6 +65,7 @@ To host the website on a local system, ensure you have the following installed:
 3. Run the following commands one by one:
 
 npm install --force
+
 npm start
 
 
@@ -68,11 +78,13 @@ The webpage will automatically open in `localhost:3000`. If it doesn't open auto
 3. Run the following commands one by one:
 
 npm install --force
+
 npm start
 
 If there is an error after running `npm start`, try running:
 
 npm uninstall bcrypt
+
 npm install bcrypt
 
 
