@@ -7,7 +7,7 @@ Objectives and Benefits:
 * Program Comparison: Allows students to compare two programs based on their rankings.
 * Program Search and Reviews: Users can search for specific programs and view their reviews.
 * Latest Updates: Keeps users updated with the latest happenings related to college admissions and entrance exams.
-* Direct Communication: Enables direct communication between users and students studying on campuses.
+* Discussion Forum: Enables direct communication between users and students studying on campuses.
 
 ## Codebase Navigation
 
